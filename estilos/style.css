@@ -14,3 +14,21 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.473);
 }
+h1{
+    font-size: 2em;
+    color: brown;
+}
+h2{
+    font-size: 1.5em;
+    color: rgb(73, 11, 11);
+    
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: chocolate;
+}
+a:hover {
+    text-decoration: underline;
+    color: crimson;
+}
