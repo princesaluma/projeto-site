@@ -31,4 +31,10 @@ a{
 a:hover {
     text-decoration: underline;
     color: rgb(32, 1, 8);
+    color: rgb(97, 4, 4);
+}
+img.lado{
+    width: 200px;
+    height: 200px;
+    float: right;
 }
